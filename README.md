@@ -5,7 +5,7 @@
   
   WuDaoCorpora是北京智源研究院最新构建的高质量数据集，由全球最大的纯文本数据集、全球最大的多模态图文数据集和全球最大的中文对话数据集三部分构成。
   
- <img src="https://user-images.githubusercontent.com/84830408/119928740-c4afc380-bfae-11eb-9057-57aea1b0177b.png" width="660" height="160">
+  <img src="https://user-images.githubusercontent.com/84830408/119928740-c4afc380-bfae-11eb-9057-57aea1b0177b.png" width="660" height="160">
   
   如有侵权，请马上联系：open@baai.ac.cn
   
