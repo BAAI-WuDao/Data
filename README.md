@@ -11,7 +11,8 @@
   
   -悟道对话数据集：
   
-  ![image](https://user-images.githubusercontent.com/84830408/119928034-55859f80-bfad-11eb-80cc-a65a52c1bc38.png)
+  ![image](https://user-images.githubusercontent.com/84830408/119928370-08ee9400-bfae-11eb-9231-60f846fcb869.png)
+
 
   
 * **[智源指数]()**
